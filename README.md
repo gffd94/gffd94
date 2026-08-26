@@ -50,7 +50,12 @@ public class Backend_Developer {
 </div>
 
 
-
+<div align=center>
+<h4> 📊 Stats 📊 </h4>
+---
+![ ](https://raw.githubusercontent.com/gffd94/github-stats-transparent/refs/heads/output/generated/overview.svg)
+![ ](https://raw.githubusercontent.com/gffd94/github-stats-transparent/refs/heads/output/generated/languages.svg)
+</div>
 
 
 ---
