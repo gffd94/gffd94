@@ -10,10 +10,10 @@
 
 ```java
 public class Backend_Developer {
-    	private final String major = "Computer Science & Public Administration";
-		private final String study = "Java, Spring Boot, Algorithm";
-    	private final String focus = "";
-    	private final String goals = "개발자ing";
+    private final String major = "Computer Science";
+    private final String study = "Java, Spring Boot, Algorithm";
+    private final String focus = "Backend Development";
+    private final String goals = "꾸준히 성장하는 개발자";
 }
 ```
 
@@ -26,7 +26,7 @@ public class Backend_Developer {
 ---
 
 [![Blog](https://img.shields.io/badge/Blog-EC6148?style=fflat-square&logo=tistory&logoColor=white&link=https://wintae.tistory.com/)](https://wintae.tistory.com/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:29088981l@gmail.com)](mailto:29088981l@gmail.com)
     
 </div>
 
