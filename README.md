@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SengTae%20Github&fontSize=60&fontColor=fffff0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SeungTae%20Github&fontSize=60&fontColor=fffff0)
 
 <div align=center>
 
