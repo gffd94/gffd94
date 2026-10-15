@@ -16,9 +16,9 @@
 ```java
 public class SeungTae {
     private final String role     = "Backend Developer";
-    private final String interest = "동시성 · 분산 트랜잭션 · 장애에도 틀리지 않는 데이터";
-    private final String approach = "설계는 측정으로 결정하고, 결과는 숫자로 남긴다";
-    private final String habit    = "막힌 것과 배운 것은 블로그에 회고로 남긴다";
+    private final String interest = "동시성 · 분산 트랜잭션 · 장애에도 틀리지 않는 데이터를 다룹니다.";
+    private final String approach = "설계는 측정으로 결정하고, 결과는 숫자로 남기려고 합니다.";
+    private final String habit    = "막힌 것과 배운 것은 블로그에 회고로 기록합니다.";
 }
 ```
 
